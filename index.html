@@ -166,21 +166,20 @@
     <div class="category" id="catalog">
       <div class="container" id="container">
         <h1 class="category__title">Our books catagory</h1>
-        <ul class="category-list">
-          <li><a href="">All</a></li>
-          <li><a href="">Fiction</a></li>
-          <li><a href="">Non-Fiction</a></li>
-          <li><a href="">Cookbook</a></li>
-          <li><a href="">Adult</a></li>
-          <li><a href="">Wellness</a></li>
-          <li><a href="">Kids books</a></li>
+        <ul class="category-list" id="categoryList">
+          <!-- <li><button class="btn" onclick="filterObjects('fiction')">Fiction</button></li>
+          <li><button class="btn" onclick="filterObjects('science')">Science</button></li>
+          <li><button class="btn" onclick="filterObjects('children')">Children</button></li>
+          <li><button class="btn" onclick="filterObjects('educational')">Educational</button></li>
+          <li><button class="btn" onclick="filterObjects('business')">Business</button></li>
+          <li><button class="btn" onclick="filterObjects('religious')">Religious</button></li> -->
         </ul>
 
         <div id="slider-container">
-          <span onclick="slideRight()" class="btn">All</span>
+          <!-- <span onclick="slideRight()" class="btn">All</span> -->
           <div id="slider">
-            <div class="slide">
-              <div class="slide-avatar">
+            <!-- <div class="slide"> -->
+              <!-- <div class="slide-avatar">
                 <img src="/assets/images/harry.png" alt="avatar" />
               </div>
               <div class="slide-info">
@@ -254,7 +253,7 @@
               </div>
             </div>
 
-            <div class="slide">
+            <div class="slide children">
               <div class="slide-avatar">
                 <img src="/assets/images/harry.png" alt="avatar" />
               </div>
@@ -313,8 +312,8 @@
                 <h4 class="slide-price">$50.99</h4>
               </div>
             </div>
-
-            <div class="slide">
+-->
+            <!-- <div class="slide"> 
               <div class="slide-avatar">
                 <img src="/assets/images/harry.png" alt="avatar" />
               </div>
@@ -327,9 +326,9 @@
                 <hr />
                 <h4 class="slide-price">$50.99</h4>
               </div>
-            </div>
+            </div> -->
           </div>
-          <span onclick="slideLeft()" class="btn">Fiction</span>
+          <!-- <span onclick="slideLeft()" class="btn">Fiction</span> -->
         </div>
       </div>
     </div>
@@ -471,11 +470,20 @@
     </footer>
   </body>
 
-  <script type="text/javascript" src="/assets/js/index.js"></script>
+  
 
   <script
     src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
     crossorigin="anonymous"
   ></script>
+  
+  <script type="text/javascript" src="/assets/data/index.js"></script>
+  <script type="text/javascript" src="/assets/js/index.js"></script>
+
 </html>
+
+
+<script>
+    console.log(category)
+</script>
