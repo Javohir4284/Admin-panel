@@ -1,0 +1,44 @@
+[
+    {
+      "id": "fiction",
+      "name": {
+        "uz": "Badiiy adabiyot",
+        "en": "Fiction"
+      }
+    },
+    {
+      "id": "science",
+      "name": {
+        "uz": "Ilmiy ommabop",
+        "en": "Popular science"
+      }
+    },
+    {
+      "id": "children",
+      "name": {
+        "uz": "Bolalar adabiyoti",
+        "en": "Children's literature"
+      }
+    },
+    {
+      "id": "educational",
+      "name": {
+        "uz": "O'quv adabiyotlari",
+        "en": "Educational literature"
+      }
+    },
+    {
+      "id": "business",
+      "name": {
+        "uz": "Biznes",
+        "en": "Business"
+      }
+    },
+    {
+      "id": "religious",
+      "name": {
+        "uz": "Diniy-ma'rifiy",
+        "en": "Religious"
+      }
+    }
+  ]

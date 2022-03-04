@@ -1,0 +1,651 @@
+@import "responsive";
+@import "other";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  width: 100% !important;
+}
+
+header {
+  width: 100%;
+
+  .container-fluid {
+    display: flex;
+    align-items: center;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .navbar {
+    position: absolute;
+    background: transparent;
+    top: 0;
+    right: 0;
+    left: 0;
+
+    &-brand {
+      width: 13%;
+    }
+
+    .container {
+      width: 81%;
+      display: flex;
+      align-items: flex-start;
+    }
+
+    .nav-item:first-child{
+      margin-left: 110px;
+    }
+
+    .nav-item {
+      margin: 0 24px;
+
+      .nav-link {
+        color: white;
+        font-weight: 600;
+        font-size: 13px;
+        line-height: 20px;
+      }
+    }
+  }
+
+  .main {
+    .container-fluid {
+      align-items: flex-start;
+    }
+
+    &-left {
+      background-color: $secondryColor;
+      width: 50%;
+      padding: 150px 0 150px 140px;
+    }
+
+    &__title {
+      font-family: "GoshaBold";
+      font-weight: bold;
+      font-size: 52px;
+      line-height: 66px;
+      color: #ffffff;
+    }
+
+    &__text {
+      font-weight: 500;
+      font-size: 14px;
+      line-height: 20px;
+      width: 75%;
+      color: white;
+      margin-top: 20px;
+    }
+
+    &-form {
+      position: relative;
+      width: 80%;
+      margin-top: 30px;
+
+      input {
+        width: 100%;
+        height: 39px;
+        border-radius: 22px;
+        font-weight: 500;
+        font-size: 13px;
+        line-height: 20px;
+        text-indent: 17px;
+        outline: none;
+        border: none;
+
+        &::placeholder {
+          color: black;
+          opacity: 0.6;
+        }
+      }
+      i{
+        display: none;
+      }
+
+      button {
+        position: absolute;
+        right: 4px;
+        top: 3px;
+        @include btnPrimary();
+      }
+    }
+
+    &-right {
+      background-color: $primaryColor;
+      width: 50%;
+      padding: 130px 0 70px;
+    }
+    &-img {
+      padding-left: 150px;
+      width: 100%;
+
+      img {
+        width: 290px;
+      }
+    }
+    &-info {
+      margin-left: 160px;
+      h4 {
+        font-family: "GoshaBold";
+        font-weight: bold;
+        font-size: 15px;
+        line-height: 20px;
+        color: white;
+      }
+
+      p {
+        font-family: "GoshaRegular";
+        font-size: 12px;
+        line-height: 16px;
+        color: #ffffff;
+        opacity: 0.8;
+      }
+    }
+  }
+}
+
+// Second-part section
+#second-part {
+  background-color: $mainBackground;
+  padding: 60px 0;
+
+  .welcome {
+    width: 81%;
+
+    &__title {
+      font-family: "GoshaBold";
+      font-weight: bold;
+      font-size: 50px;
+      line-height: 66px;
+      width: 60%;
+      margin-top: 70px;
+    }
+
+    &__text {
+      font-size: 15px;
+      line-height: 22px;
+      width: 85%;
+    }
+
+    button {
+      width: 130px !important;
+      height: 40px;
+      margin-top: 36px;
+      @include btnPrimary();
+    }
+
+    &-wrapper {
+      display: flex;
+    }
+
+    &-item {
+      width: 100%;
+      margin-top: 30px;
+
+      h3 {
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 30px;
+        font-family: "Roboto";
+        margin-top: 17px;
+
+        i {
+          opacity: 0;
+        }
+      }
+
+      p {
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 20px;
+        color: #000000;
+        opacity: 0.7;
+      }
+
+      span {
+        display: inline-block;
+        background: #ffffff;
+        box-shadow: 0px 0px 40px rgba(0, 0, 1, 0.04);
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+
+        img {
+          width: 40%;
+        }
+      }
+    }
+
+    &-image {
+      width: 100%;
+      text-align: right;
+
+      img {
+        width: 95%;
+      }
+    }
+  }
+}
+
+// Best styles
+.best {
+  position: relative;
+
+  .container-fluid {
+    padding-left: 0;
+    padding-right: 0;
+    background-image: url(/assets/images/best.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 100px 130px 140px 275px;
+
+    h1 {
+      margin-left: 80px;
+      font-family: "GoshaRegular";
+      font-size: 50px;
+      line-height: 60px;
+      color: white;
+    }
+
+    p {
+      font-size: 17px;
+      line-height: 30px;
+      color: #ffffff;
+      margin-top: 60px;
+    }
+  }
+
+  .closer {
+    position: absolute;
+    width: 100%;
+    height: 50px;
+    background-color: $mainBackground;
+    bottom: 0;
+  }
+}
+
+.category {
+  padding: 80px 0;
+  background-color: $mainBackground;
+
+  &__title{
+    color: #000000;
+    font-size: 50px;
+    line-height: 70px;
+    font-family: 'GoshaBold';
+  }
+
+  #container {
+    width: 81%;
+    display: grid;
+    place-items: center;
+  }
+
+  &-list {
+    position: relative;
+    width: 70%;
+    margin: 60px auto;
+    justify-content: space-between;
+    display: flex;
+    margin-bottom: -40px;
+    z-index: 5;
+
+    li:first-child,
+    li:nth-child(2) {
+      visibility: hidden;
+    }
+
+    li {
+      list-style: none;
+
+      a {
+        text-decoration: none;
+        font-size: 17px;
+        line-height: 22px;
+        color: #000000;
+        opacity: 0.7;
+        transition: all 0.6s;
+      }
+
+      a:hover {
+        border-bottom: 3px solid $primaryColor;
+      }
+    }
+  }
+}
+
+#slider-container {
+  height: 650px;
+  width: 81vw;
+  position: relative;
+  overflow: hidden;
+  padding: 20px;
+  padding-left: 0;
+}
+
+#slider-container .btn {
+  position: absolute;
+  z-index: 10;
+  cursor: pointer;
+  top: 14px;
+  font-family: "Montserrat";
+}
+
+#slider-container .btn:hover {
+  border-bottom: 3px solid $primaryColor;
+}
+
+#slider-container .btn:first-of-type {
+  left: 16%;
+  font-size: 17px;
+  line-height: 22px;
+  opacity: 0.7;
+  padding: 0;
+}
+
+#slider-container .btn:last-of-type {
+  left: 24%;
+  font-size: 17px;
+  line-height: 22px;
+  opacity: 0.7;
+  padding: 0;
+}
+
+#slider-container #slider {
+  display: flex;
+  width: 1000%;
+  height: 100%;
+  transition: all 0.5s;
+}
+
+#slider-container #slider .slide {
+  position: relative;
+  top: 70px;
+  width: 255px;
+  height: 500px;
+  margin: auto 13.5px;
+  background-color: white;
+  box-shadow: 0px 0px 32px rgba(0, 0, 0, 0.04);
+  border-radius: 16px;
+}
+
+#slider-container #slider .slide:first-child {
+  margin-left: 0;
+}
+
+#slider-container #slider .slide .slide-avatar {
+  width: 86%;
+  margin: 18px auto;
+}
+
+.slide-avatar img {
+  width: 100%;
+}
+
+.slide-info {
+  width: 86%;
+  margin: 0 auto;
+
+  h5 {
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 22px;
+    opacity: 0.9;
+  }
+
+  h4 {
+    font-weight: 500;
+    font-size: 14px;
+    text-align: center;
+    line-height: 20px;
+    margin-top: 24px;
+  }
+
+  .slide-name {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+
+    p {
+      font-weight: 500;
+      font-size: 14px;
+      line-height: 22px;
+      opacity: 0.6;
+      margin-bottom: 0;
+    }
+
+    i {
+      color: $primaryColor;
+      font-size: 13px;
+
+      span {
+        font-weight: 500;
+        font-size: 13px;
+        line-height: 22px;
+        color: #000000;
+        margin-left: 5px;
+      }
+    }
+  }
+}
+
+// Customer styles
+.customer {
+  background-color: $mainBackground;
+  padding-bottom: 180px;
+
+  .container {
+    width: 81%;
+  }
+
+  &-header {
+    padding-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    button {
+      @include btnPrimary();
+      width: 160px;
+      height: 40px;
+    }
+  }
+
+  &__title {
+    font-family: "GoshaBold";
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 70px;
+  }
+
+  &__text {
+    font-size: 13px;
+    line-height: 22px;
+    width: 60%;
+    color: #000000;
+  }
+
+  &-main {
+    position: relative;
+    padding-top: 200px;
+  }
+
+  &-image {
+    position: absolute;
+    top: 50px;
+    width: 540px;
+    height: 590px;
+    background: #00b2f5;
+    border-radius: 48px;
+
+    img {
+      position: absolute;
+      height: 90%;
+      margin-left: 60px;
+      margin-bottom: auto;
+      bottom: 0;
+    }
+
+    img:last-child {
+      display: none;
+    }
+  }
+
+  .carousel-inner {
+    position: relative;
+
+    .carousel-item {
+      position: relative;
+      left: 40%;
+      padding: 40px 75px;
+      background: #ffffff;
+      box-shadow: 0px 0px 12px rgba(0, 0, 0, 0.06);
+      border-radius: 60px;
+      width: 60%;
+      z-index: 1;
+
+      .fa-quote-left {
+        font-size: 30px;
+        color: $primaryColor;
+      }
+
+      p {
+        font-weight: 300;
+        font-size: 17px;
+        line-height: 22px;
+        text-align: justify;
+        color: #333333;
+        margin: 20px 0;
+      }
+
+      .icons {
+        margin-top: 30px;
+
+        i {
+          font-size: 16px;
+          color: $primaryColor;
+          margin-right: 14px;
+        }
+
+        p {
+          font-weight: 300;
+          font-size: 12px;
+          line-height: 22px;
+          color: #000000;
+          margin: 0;
+        }
+      }
+      &__title {
+        font-family: "GoshaBold";
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 30px;
+        margin-top: 25px;
+      }
+    }
+  }
+
+  .carousel-control-prev {
+    position: absolute;
+    left: 88%;
+    width: 30px;
+    height: 30px;
+    top: 80%;
+  }
+
+  .carousel-control-next {
+    width: 30px;
+    height: 30px;
+    top: 80%;
+    right: 65px;
+  }
+}
+
+// Footer styles
+.footer {
+  background-color: #000000;
+  padding: 40px 0;
+  padding-top: 32px;
+
+  .container {
+    width: 81%;
+  }
+
+  &-top {
+    display: flex;
+    justify-content: space-between;
+
+    ul {
+      display: flex;
+      padding-left: 10px;
+
+      li {
+        list-style: none;
+        margin-right: 45px;
+
+        a {
+          text-decoration: none;
+          font-weight: 500;
+          font-size: 13px;
+          line-height: 20px;
+          color: white;
+        }
+      }
+    }
+  }
+
+  &-link {
+    span {
+      font-weight: 500;
+      font-size: 13px;
+      line-height: 20px;
+      color: #ffffff;
+      margin-left: 16px;
+
+      i {
+        margin-right: 10px;
+      }
+    }
+  }
+
+  &-bottom {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  &__text {
+    font-size: 14px;
+    line-height: 20px;
+    color: #ffffff;
+    width: 45%;
+    margin-left: -190px;
+    margin-bottom: 0;
+
+    span {
+      color: $footerColor;
+    }
+  }
+
+  &-media {
+    img {
+      width: 20px;
+      margin-left: 10px;
+    }
+  }
+}

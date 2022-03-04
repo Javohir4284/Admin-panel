@@ -1,0 +1,1522 @@
+{
+  "fiction": [
+    {
+      "name": "Treasure island",
+      "image": "http://book.uz/image/cache/catalog/Books/321093-228x228.jpg"
+    },
+    {
+      "name": "Абдулҳамид — сўнгги ҳукмдор",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/abdulhamid-228x228.jpg"
+    },
+    {
+      "name": "Авлоднома",
+      "image": "http://book.uz/image/cache/catalog/Books/1422-228x228.jpg"
+    },
+    {
+      "name": "Ажал таъқиби",
+      "image": "http://book.uz/image/cache/catalog/Books/1641-228x228.jpg"
+    },
+    {
+      "name": "Айюб нидоси",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/ayyub%20sayt-228x228.jpg"
+    },
+    {
+      "name": "Ака ва ука",
+      "image": "http://book.uz/image/cache/catalog/Books/1409-228x228.jpg"
+    },
+    {
+      "name": "Ака-ука Карамазовлар I",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/kar11111111111%20(2)-228x228.png"
+    },
+    {
+      "name": "Ака-ука Карамазовлар II",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/kar22222222222222-228x228.jpg"
+    },
+    {
+      "name": "Алвон елканлар",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/alvon%20yelkan%201-228x228.jpg"
+    },
+    {
+      "name": "Алжабрнинг туғилиши",
+      "image": "http://book.uz/image/cache/catalog/Books/1413-228x228.jpg"
+    },
+    {
+      "name": "Алишернинг ёшлиги",
+      "image": "http://book.uz/image/cache/catalog/Books/1531-228x228.jpg"
+    },
+    {
+      "name": "Алкимёгар (ЯАА)",
+      "image": "http://book.uz/image/cache/catalog/Books/882-228x228.jpg"
+    },
+    {
+      "name": "Алфидо",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/alfido%20sayt-228x228.jpg"
+    },
+    {
+      "name": "Анна Каренина 1 (юмшоқ муқова)",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/anna%201sayt-228x228.jpg"
+    },
+    {
+      "name": "Анна Каренина 2 (юмшоқ муқова)",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/anna%20sayt-228x228.jpg"
+    },
+    {
+      "name": "Анна Франк кундалиги",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/anna%20frank%20sayt-228x228.jpg"
+    },
+    {
+      "name": "Аср билан видолашув",
+      "image": "http://book.uz/image/cache/catalog/Books/321084-228x228.jpg"
+    },
+    {
+      "name": "Асрни қаритган кун (ЯАА)",
+      "image": "http://book.uz/image/cache/catalog/Books/1424-228x228.jpg"
+    },
+    {
+      "name": "Афсона",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/afsona-228x228.jpg"
+    },
+    {
+      "name": "Афсун",
+      "image": "http://book.uz/image/cache/catalog/Nazokat/afsun-228x228.jpg"
+    },
+    {
+      "name": "Баҳор келди сени сўроқлаб",
+      "image": "http://book.uz/image/cache/catalog/Books/521125-228x228.jpg"
+    },
+    {
+      "name": "Баҳор қайтмайди",
+      "image": "http://book.uz/image/cache/catalog/Books/1402-228x228.jpg"
+    },
+    {
+      "name": "Баҳорнинг ўн етти лаҳзаси",
+      "image": "http://book.uz/image/cache/catalog/Books/bahorning_17-lahzasi-500x750-228x228.jpg"
+    },
+    {
+      "name": "Баҳоуддин Нақшбанд",
+      "image": "http://book.uz/image/cache/catalog/Books/1405-228x228.jpg"
+    },
+    {
+      "name": "Беш болалик йигитча",
+      "image": "http://book.uz/image/cache/catalog/Books/besh_yoshli_bola-650x650-228x228.jpg"
+    },
+    {
+      "name": "Беш қаватли уйнинг олтинчи қавати",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/anorrrr-228x228.jpg"
+    },
+    {
+      "name": "Биллур қандиллар (юмшоқ муқова)",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/billur%20sayt-228x228.jpg"
+    },
+    {
+      "name": "Бузрукнинг кузи",
+      "image": "http://book.uz/image/cache/catalog/Books/1611-228x228.jpg"
+    },
+    {
+      "name": "Винни Пух ва унинг саргузаштлари",
+      "image": "http://book.uz/image/cache/catalog/Books/1415-228x228.jpg"
+    },
+    {
+      "name": "Вой, онажоним",
+      "image": "http://book.uz/image/cache/catalog/Books/voy%20onajonim-228x228.jpg"
+    },
+    {
+      "name": "Граф Монте Кристо. Биринчи китоб (юмшоқ муқова)",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/graf%201-228x228.jpg"
+    },
+    {
+      "name": "Граф Монте Кристо. Иккинчи китоб (юмшоқ муқова)",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/graf%202-228x228.jpg"
+    },
+    {
+      "name": "Дафтар ҳошиясидаги битиклар",
+      "image": "http://book.uz/image/cache/catalog/Books/1562-228x228.jpg"
+    },
+    {
+      "name": "Дорихонадаги қотиллик (юмшоқ муқова)",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/dorixoan%20(3)-228x228.jpg"
+    },
+    {
+      "name": "Дунёнинг ишлари",
+      "image": "http://book.uz/image/cache/catalog/Books/41-228x228.JPG"
+    },
+    {
+      "name": "Ёнаётган дала. II жилд",
+      "image": "http://book.uz/image/cache/catalog/Books/321085-228x228.jpg"
+    },
+    {
+      "name": "Етти мажлис",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/yetti%20saytga-228x228.jpg"
+    },
+    {
+      "name": "Ёш бола деманг уларни",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/yosh%20bola-228x228.jpg"
+    },
+    {
+      "name": "Ёш қизнинг кундалиги",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/yosh%20qizning%20sayt-228x228.jpg"
+    },
+    {
+      "name": "Жаллод аёл",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/jallod%20ayol-228x228.jpg"
+    },
+    {
+      "name": "Жаннати одамлар (ЯАА)",
+      "image": "http://book.uz/image/cache/catalog/Books/jannti_odamlar-500x750-228x228.jpg"
+    },
+    {
+      "name": "Жараён",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/jarayon-228x228.jpg"
+    },
+    {
+      "name": "Жаҳонгир",
+      "image": "http://book.uz/image/cache/catalog/Books/1366-228x228.jpg"
+    },
+    {
+      "name": "Жиноят ва жазо (юмшоқ муқова)",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/jinoyat%20saytga-228x228.jpg"
+    },
+    {
+      "name": "Журналист",
+      "image": "http://book.uz/image/cache/catalog/Books/1505-228x228.jpg"
+    },
+    {
+      "name": "Ибн Сино қиссаси",
+      "image": "http://book.uz/image/cache/catalog/Books/qissa-228x228.jpg"
+    },
+    {
+      "name": "Излаш",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/izlash%20sayt-228x228.jpg"
+    },
+    {
+      "name": "Икки эшик ораси (юмшоқ муқова)",
+      "image": "http://book.uz/image/cache/catalog/Books/2eshik-228x228.jpg"
+    },
+    {
+      "name": "Илинж",
+      "image": "http://book.uz/image/cache/catalog/Books/1555-228x228.jpg"
+    },
+    {
+      "name": "Ичиндаги ичиндадур",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/ichindagi%20saytga-228x228.jpg"
+    },
+    {
+      "name": "Иқрор",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/iqror-228x228.jpg"
+    },
+    {
+      "name": "Калила ва Димна",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/kalila%20va%20dimna-228x228.jpg"
+    },
+    {
+      "name": "Капитан Врунгелнинг саргузаштлари",
+      "image": "http://book.uz/image/cache/catalog/Books/1370-228x228.jpg"
+    },
+    {
+      "name": "Карл IX салтанатининг йилномаси",
+      "image": "http://book.uz/image/cache/catalog/Books/1371-228x228.jpg"
+    },
+    {
+      "name": "Кафансиз кўмилганлар (Ё.К)",
+      "image": "http://book.uz/image/cache/catalog/Nazokat/kafansiz%20ko'milganlar-228x228.jpg"
+    },
+    {
+      "name": "Кафтимдаги қаҳраболар",
+      "image": "http://book.uz/image/cache/catalog/Books/1630-228x228.jpg"
+    },
+    {
+      "name": "Кечиккан қасос (юмшоқ муқова)",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/kechikkan-228x228.jpeg"
+    },
+    {
+      "name": "Клод Гё",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/klod%20sayt-228x228.jpg"
+    },
+    {
+      "name": "Кэц юлдузи",
+      "image": "http://book.uz/image/cache/catalog/Books/1406-228x228.jpg"
+    },
+    {
+      "name": "Лолазор",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/lolazor%20sayt-228x228.jpg"
+    },
+    {
+      "name": "Лўли",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/lo'li%20sayt-228x228.jpg"
+    },
+    {
+      "name": "Марҳумлар ороли (1-китоб)",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/marhumlar%20sayt%201-228x228.jpg"
+    },
+    {
+      "name": "Марҳумлар ороли (2-китоб)",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/marhumlar%20sayt%202-228x228.jpg"
+    },
+    {
+      "name": "Матилда",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/matilda%20sayt-228x228.jpg"
+    },
+    {
+      "name": "Маугли",
+      "image": "http://book.uz/image/cache/catalog/Books/887-228x228.jpg"
+    },
+    {
+      "name": "Маҳрам жавоблар",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/mahram%20j-228x228.jpg"
+    },
+    {
+      "name": "Маҳрам жавоблар (юмшоқ муқова)",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/mahram%20j-228x228.jpg"
+    },
+    {
+      "name": "Мен англаган ҳаёт",
+      "image": "http://book.uz/image/cache/catalog/Books/1356-228x228.JPG"
+    },
+    {
+      "name": "Мен Малаламан",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/malala%20saytga%201-228x228.jpg"
+    },
+    {
+      "name": "Мен сизни соғиндим, Онажон",
+      "image": "http://book.uz/image/cache/catalog/Books/untitled%20folder%201/photo_2020-03-05_17-04-29-228x228.jpg"
+    },
+    {
+      "name": "Мен, дадам ва алцгеймер",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/men%20dadam-228x228.jpg"
+    },
+    {
+      "name": "Менинг ўғригина болам",
+      "image": "http://book.uz/image/cache/catalog/Books/1410-228x228.jpg"
+    },
+    {
+      "name": "Менинг фалсафам",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/mening-228x228.jpg"
+    },
+    {
+      "name": "Менким, Соҳибқирон - Жаҳонгир Темур ",
+      "image": "http://book.uz/image/cache/catalog/Books/1375-228x228.jpg"
+    },
+    {
+      "name": "Минг қуёш шуъласи",
+      "image": "http://book.uz/image/cache/catalog/Books/1447-228x228.jpg"
+    },
+    {
+      "name": "Минг қуёш шуъласи (2021)",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/ming-228x228.jpg"
+    },
+    {
+      "name": "Минг қуёш шуъласи (тўплам)",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/saytga%20ming-228x228.jpg"
+    },
+    {
+      "name": "Мувозанат",
+      "image": "http://book.uz/image/cache/catalog/Books/1381-228x228.jpg"
+    },
+    {
+      "name": "Муму",
+      "image": "http://book.uz/image/cache/catalog/Books/1548-228x228.jpg"
+    },
+    {
+      "name": "Мунгли кўзлар ",
+      "image": "http://book.uz/image/cache/catalog/Books/Mungli%20kuzlar-228x228.jpg"
+    },
+    {
+      "name": "Муҳаббат",
+      "image": "http://book.uz/image/cache/catalog/Books/muhabbat-600x600-228x228.jpeg"
+    },
+    {
+      "name": "Навоий (юмшоқ муқова)",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/navoiy-228x228.jpg"
+    },
+    {
+      "name": "Наполеонзода",
+      "image": "http://book.uz/image/cache/catalog/Books/1027-228x228.jpg"
+    },
+    {
+      "name": "Наполеоннинг айғоқчиси",
+      "image": "http://book.uz/image/cache/catalog/Books/1029-228x228.jpg"
+    },
+    {
+      "name": "Нафс кишанлари",
+      "image": "http://book.uz/image/cache/catalog/Books/1510-228x228.jpg"
+    },
+    {
+      "name": "Номаълум аёл мактуби",
+      "image": "http://book.uz/image/cache/catalog/Books/1407-228x228.jpg"
+    },
+    {
+      "name": "Номус ва қасос",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/nomus%20va%20qasos-228x228.jpg"
+    },
+    {
+      "name": "Нотиқлик санъати",
+      "image": "http://book.uz/image/cache/catalog/Books/1337-228x228.jpg"
+    },
+    {
+      "name": "Нур борки, соя бор",
+      "image": "http://book.uz/image/cache/catalog/Books/1639-228x228.jpg"
+    },
+    {
+      "name": "Одоб-ахлоқ китоби",
+      "image": "http://book.uz/image/cache/catalog/Elyora/ODOBAXLOQKITOBI-228x228.jpg"
+    },
+    {
+      "name": "Оилада севги суҳбатлари",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/oilada%20sevg-228x228.jpg"
+    },
+    {
+      "name": "Ойбегим менинг",
+      "image": "http://book.uz/image/cache/catalog/Nazokat/photo_2020-06-10_10-48-24-228x228.jpg"
+    },
+    {
+      "name": "Ойгул ва Бахтиёр",
+      "image": "http://book.uz/image/cache/catalog/Books/1556-228x228.jpg"
+    },
+    {
+      "name": "Олмос камар (юмшоқ муқова)",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/olmos%20kamar%20saytga-228x228.jpg"
+    },
+    {
+      "name": "Олтин қозиқ",
+      "image": "http://book.uz/image/cache/catalog/Books/1503+-228x228.jpg"
+    },
+    {
+      "name": "Она лочин видоси (юмшоқ муқова)",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/ona%20lochin%20saytga-228x228.jpg"
+    },
+    {
+      "name": "Остин-устин",
+      "image": "http://book.uz/image/cache/catalog/Elyora/OSTIN%20USTIN-228x228.jpg"
+    },
+    {
+      "name": "Оташ кечаси (юмшоқ муқова)",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/otash%20saytga-228x228.jpg"
+    },
+    {
+      "name": "Оташ кечаси (қаттиқ муқова)",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/otash%20saytga-228x228.jpg"
+    },
+    {
+      "name": "Оқ кема",
+      "image": "http://book.uz/image/cache/catalog/Books/1334-228x228.jpg"
+    },
+    {
+      "name": "Роман",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/roman%20old%20(2)-228x228.jpg"
+    },
+    {
+      "name": "Сариқ девнинг ўлими",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/sariq-228x228.jpg"
+    },
+    {
+      "name": "Севги афсонаси",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/afsona%20sayt-228x228.jpg"
+    },
+    {
+      "name": "Семиз ва ориқ",
+      "image": "http://book.uz/image/cache/catalog/Elyora/SEMIZ%20VA%20ORIQ-228x228.jpg"
+    },
+    {
+      "name": "Скафандр ва капалак",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/skafandr%20sayt-228x228.jpg"
+    },
+    {
+      "name": "Сув остида 80 минг километр",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/suv%20ostida-228x228.jpg"
+    },
+    {
+      "name": "Сўнгги орол",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/so'nggi%20orol-228x228.jpg"
+    },
+    {
+      "name": "Сўнгги тўфон (қаттиқ муқова)",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/so'nggi%20t-228x228.jpg"
+    },
+    {
+      "name": "Сўпоқсойдаги сирли қотиллик",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/so'poqsoydagi%20sayt-228x228.jpg"
+    },
+    {
+      "name": "Тасаввуф: Қаранийдан Рушдийгача",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/tasavvuf-228x228.jpg"
+    },
+    {
+      "name": "Телба (юмшоқ муқова)",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/telba%20yumsh-228x228.png"
+    },
+    {
+      "name": "Темурийлар силсиласи",
+      "image": "http://book.uz/image/cache/catalog/Books/1523-228x228.jpg"
+    },
+    {
+      "name": "Тилла узук",
+      "image": "http://book.uz/image/cache/catalog/Elyora/TILLA%20UZUK-228x228.jpg"
+    },
+    {
+      "name": "Тоғлар ҳам садо берди",
+      "image": "http://book.uz/image/cache/catalog/Books/1448-228x228.jpg"
+    },
+    {
+      "name": "Тоғлар ҳам садо берди (2021)",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/tog'lar-228x228.jpg"
+    },
+    {
+      "name": "Тушда кечган умрлар",
+      "image": "http://book.uz/image/cache/catalog/Books/1638-228x228.jpg"
+    },
+    {
+      "name": "Ўгай она",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/o'gay%20ona-228x228.jpg"
+    },
+    {
+      "name": "Ўгай она. Сўнгги тўфон",
+      "image": "http://book.uz/image/cache/catalog/Books/1637-228x228.jpg"
+    },
+    {
+      "name": "Ўзбегим",
+      "image": "http://book.uz/image/cache/catalog/Books/894-228x228.jpg"
+    },
+    {
+      "name": "Ўзини қидирган одам",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/o'zini%20qidirgan%20odam-228x228.jpg"
+    },
+    {
+      "name": "Умар Хайём",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/umar%20x%20saytga-228x228.jpg"
+    },
+    {
+      "name": "Умидимиз юлдузларига",
+      "image": "http://book.uz/image/cache/catalog/Books/1514-228x228.jpg"
+    },
+    {
+      "name": "Ўн беш ёшли капитан",
+      "image": "http://book.uz/image/cache/catalog/Books/321102-228x228.jpg"
+    },
+    {
+      "name": "Ўн саккизга кирмаган ким бор",
+      "image": "http://book.uz/image/cache/catalog/Elyora/18ga%20kirmagan-1-228x228.jpg"
+    },
+    {
+      "name": "Уруш ва тинчлик. Биринчи ва иккинчи китоблар (юмшоқ муқова)",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/urush%20yumshoq-228x228.jpg"
+    },
+    {
+      "name": "Уруш ва тинчлик. Учинчи ва тўртинчи китоблар (юмшоқ муқова)",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/urush%202%20yumshoq-228x228.jpg"
+    },
+    {
+      "name": "Уруш тугаса, айтинг, қайтиб келаман",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/urush%20tugasa%202-228x228.jpg"
+    },
+    {
+      "name": "Урушнинг биринчи куни",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/urushning%20birinchi-228x228.jpg"
+    },
+    {
+      "name": "Фирибгар",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/firibgar-228x228.jpg"
+    },
+    {
+      "name": "Фитна қурбонлари",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/fitna-228x228.jpg"
+    },
+    {
+      "name": "Фозил одамлар шаҳри",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/fozil%20odamlar%20sayt-228x228.jpg"
+    },
+    {
+      "name": "Хамса (қаттиқ муқова)",
+      "image": "http://book.uz/image/cache/catalog/Books/Xamsa-228x228.jpg"
+    },
+    {
+      "name": "Хамса: Лайли ва Мажнун (насрий табдил)",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/lay%20sayt%20(2)-228x228.jpg"
+    },
+    {
+      "name": "Хамса: Садди Искандарий (насрий табдил)",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/sad%20sayt%20(2)-228x228.jpg"
+    },
+    {
+      "name": "Хамса: Фарҳод ва Ширин (насрий табдил)",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/far%20sayt%20(2)-228x228.jpg"
+    },
+    {
+      "name": "Хамса: Ҳайрат ул-аброр (насрий табдил)",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/hay%20sayt%20(2)-228x228.jpg"
+    },
+    {
+      "name": "Худойберди Тўхтабоев. ТЎПЛАМ",
+      "image": "http://book.uz/image/cache/catalog/Books/To'xtaboyev-toplam-228x228.png"
+    },
+    {
+      "name": "Чинор (қаттиқ муқова)",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/chinor%20sayt-228x228.jpg"
+    },
+    {
+      "name": "Чол ва денгиз (юмшоқ муқова)",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/chol%20va%20dengiz%20sayt-228x228.jpg"
+    },
+    {
+      "name": "Чол ва денгиз (қаттиқ муқова)",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/chol%20va%20dengiz%20sayt-228x228.jpg"
+    },
+    {
+      "name": "Чолиқуши (юмшоқ муқова)",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/choliqushi%20sayt-228x228.jpg"
+    },
+    {
+      "name": "Чолиқуши (қаттиқ муқова)",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/choliqushi%20sayt-228x228.jpg"
+    },
+    {
+      "name": "Шайтанатнинг жин кўчалари",
+      "image": "http://book.uz/image/cache/catalog/Books/1511-228x228.jpg"
+    },
+    {
+      "name": "Шайтонни тутган Шертой",
+      "image": "http://book.uz/image/cache/catalog/Books/321142-228x228.jpg"
+    },
+    {
+      "name": "Шамол ортидан югуриб",
+      "image": "http://book.uz/image/cache/catalog/Books/1446-228x228.jpg"
+    },
+    {
+      "name": "Шамол ортидан югуриб (2021)",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/shamol-228x228.jpg"
+    },
+    {
+      "name": "Шафқатсиз аср (I жилд)",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/shafqatsiz%20sayt-228x228.jpg"
+    },
+    {
+      "name": "Шафқатсиз аср (II жилд)",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/shafqatsiz%202%20sayt-228x228.jpg"
+    },
+    {
+      "name": "Ширин қовунлар мамлакати ёки сеҳргарлар жанги",
+      "image": "http://book.uz/image/cache/catalog/Books/1516-228x228.jpg"
+    },
+    {
+      "name": "Шунқорлар - Ватан таянчи",
+      "image": "http://book.uz/image/cache/catalog/Books/321064-228x228.jpg"
+    },
+    {
+      "name": "Эврилиш",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/evrilish%20sayt-228x228.jpg"
+    },
+    {
+      "name": "Эркак йиғлаган кун",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/erkak%20yig'lagan%20sayt-228x228.jpg"
+    },
+    {
+      "name": "Эрта қайтган турналар",
+      "image": "http://book.uz/image/cache/catalog/Books/1526-228x228.jpg"
+    },
+    {
+      "name": "Эски мактаб",
+      "image": "http://book.uz/image/cache/catalog/Elyora/ESKI%20MAKTABIBOSMAGA%20MTU-228x228.jpg"
+    },
+    {
+      "name": "Юлдузли тунлар (юмшоқ муқова)",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/yulduz-228x228.jpg"
+    },
+    {
+      "name": "Юлиан Семёнов ТЎПЛАМ",
+      "image": "http://book.uz/image/cache/catalog/Books/semenov1-228x228.png"
+    },
+    {
+      "name": "Ғамгин сарв",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/g'amgin%20sarv%20sayt-228x228.jpg"
+    },
+    {
+      "name": "Ғаройиб болалар",
+      "image": "http://book.uz/image/cache/catalog/Elyora/AZIZ%20NESIN-228x228.jpg"
+    },
+    {
+      "name": "Қайлардасан болалигим",
+      "image": "http://book.uz/image/cache/catalog/Books/Bolaligim-228x228.jpg"
+    },
+    {
+      "name": "Қасоскорниинг олтин боши",
+      "image": "http://book.uz/image/cache/catalog/Books/322102-228x228.jpg"
+    },
+    {
+      "name": "Қиз болага тош отманг",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/qizbolaga-228x228.jpg"
+    },
+    {
+      "name": "Қизлар дафтарига М.З",
+      "image": "http://book.uz/image/cache/catalog/Elyora/QIZLAR%20DAFTARIGA-228x228.jpg"
+    },
+    {
+      "name": "Қонли йўргаклар",
+      "image": "http://book.uz/image/cache/catalog/Books/qonli-228x228.jpg"
+    },
+    {
+      "name": "Қора кўзлар (юмшоқ муқова)",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/qora%20ko'zlar%20saytga-228x228.jpg"
+    },
+    {
+      "name": "Қора мусиқа",
+      "image": "http://book.uz/image/cache/catalog/Books/1640-228x228.jpg"
+    },
+    {
+      "name": "Қуёш қораймас",
+      "image": "http://book.uz/image/cache/catalog/Elyora/QUYOSH%20QORAYMAS-228x228.jpg"
+    },
+    {
+      "name": "Ҳаётий ҳикматлар ва танбеҳлар ",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/dostoyevskiy%20s%20(2)-228x228.jpg"
+    }
+  ],
+  "science": [
+    {
+      "name": "111 ватандош алломаларимиз",
+      "image": "http://book.uz/image/cache/catalog/Books/1358-228x228.jpg"
+    },
+    {
+      "name": "30 сония учун 30 қоида",
+      "image": "http://book.uz/image/cache/catalog/Books/1530-228x228.jpg"
+    },
+    {
+      "name": "Бахтли бўлиш сирлари (қаттиқ муқова)",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/baxtli%20bo'lish%20sayt-228x228.jpg"
+    },
+    {
+      "name": "Бахтли яшаш сири ёҳуд қўрқув ортида нима бор",
+      "image": "http://book.uz/image/cache/catalog/Books/1626-228x228.jpg"
+    },
+    {
+      "name": "Бола тарбиясида психолог маслаҳати",
+      "image": "http://book.uz/image/cache/catalog/Books/1618-228x228.jpg"
+    },
+    {
+      "name": "Болаларда яссиоёқлик",
+      "image": "http://book.uz/image/cache/catalog/Books/321139-228x228.jpg"
+    },
+    {
+      "name": "Бурж, тақдир ва феъл-атвор",
+      "image": "http://book.uz/image/cache/catalog/Books/1591-228x228.jpg"
+    },
+    {
+      "name": "Гинекологик касалликлар",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/ginekologik%20sayt-228x228.jpg"
+    },
+    {
+      "name": "Дўст орттириш ва одамларга таъсир ўтказиш",
+      "image": "http://book.uz/image/cache/catalog/Books/1420-228x228.jpg"
+    },
+    {
+      "name": "Зардўшт таваллоси",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/zardo'sht%20tavallosi%20saytga-228x228.jpg"
+    },
+    {
+      "name": "Икки буюк саркарда: Чингизхон ва Амир Темур ҳарбий санъати ва сиёсати",
+      "image": "http://book.uz/image/cache/catalog/Books/1613-228x228.jpg"
+    },
+    {
+      "name": "Имо-ишоралар сири",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/imo-228x228.jpg"
+    },
+    {
+      "name": "Истеъдод қачон очилади",
+      "image": "http://book.uz/image/cache/catalog/Books/1625-228x228.jpg"
+    },
+    {
+      "name": "Йўқолган уйқуни излаб",
+      "image": "http://book.uz/image/cache/catalog/Books/1535-228x228.jpg"
+    },
+    {
+      "name": "Касалликни енгиш мумкин. Юрак ишемик касаллиги ва миокард инфаркти",
+      "image": "http://book.uz/image/cache/catalog/Books/321150-228x228.jpg"
+    },
+    {
+      "name": "Кўнгил олиш санъати",
+      "image": "http://book.uz/image/cache/catalog/Books/891-228x228.jpg"
+    },
+    {
+      "name": "Мактаб оиладан бошланади",
+      "image": "http://book.uz/image/cache/catalog/Books/203109-228x228.jpg"
+    },
+    {
+      "name": "Мансаб пиллапояларидан қандай кўтарилиш мумкин",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/mansab%20saytga%20tekkis-228x228.jpg"
+    },
+    {
+      "name": "Мен сизни танийман",
+      "image": "http://book.uz/image/cache/catalog/Books/1623-228x228.jpg"
+    },
+    {
+      "name": "Муваффақият калити (тўплам)",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/d%20k%20sayt%20tekkis-228x228.jpg"
+    },
+    {
+      "name": "Мукаммал хотира бўйича табобат тавсиялари",
+      "image": "http://book.uz/image/cache/catalog/Books/1508-228x228.jpg"
+    },
+    {
+      "name": "Нима учун интеллектуал ўйинларда ютқазасиз",
+      "image": "http://book.uz/image/cache/catalog/Books/895-228x228.jpg"
+    },
+    {
+      "name": "Озодликдан қочиш",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/ozodlik%20sayt-228x228.jpg"
+    },
+    {
+      "name": "Оила номли давлат сирлари",
+      "image": "http://book.uz/image/cache/catalog/Books/1038-228x228.jpg"
+    },
+    {
+      "name": "Онг ости сирлари",
+      "image": "http://book.uz/image/cache/catalog/Books/1622-228x228.jpg"
+    },
+    {
+      "name": "Психологик парҳез ёки мен озишни хоҳлайман",
+      "image": "http://book.uz/image/cache/catalog/Books/1616-228x228.jpg"
+    },
+    {
+      "name": "Раҳбар психологияси",
+      "image": "http://book.uz/image/cache/catalog/Books/1506-228x228.jpg"
+    },
+    {
+      "name": "Рустам Қосимжонов - жахон шахмат тожи соҳиби",
+      "image": "http://book.uz/image/cache/catalog/Books/1635-228x228.jpg"
+    },
+    {
+      "name": "Салбий хислатларнинг салбий қуввати",
+      "image": "http://book.uz/image/cache/catalog/Books/1620-228x228.jpg"
+    },
+    {
+      "name": "Сиёсатнома (Сияр ул-мулк)",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/siyosatnoma%20sayt-228x228.jpg"
+    },
+    {
+      "name": "Сир сақланмайдиган касаллик. Простата раки",
+      "image": "http://book.uz/image/cache/catalog/Books/1595-228x228.jpg"
+    },
+    {
+      "name": "Сир сақланмайдиган касаллик. Простатит",
+      "image": "http://book.uz/image/cache/catalog/Books/1594-228x228.jpg"
+    },
+    {
+      "name": "Танамиздаги жумбоқлар",
+      "image": "http://book.uz/image/cache/catalog/Books/1628-228x228.jpg"
+    },
+    {
+      "name": "Тасаввуф: Қаранийдан Рушдийгача",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/tasavvuf-228x228.jpg"
+    },
+    {
+      "name": "Тележурналистика жанрлари",
+      "image": "http://book.uz/image/cache/catalog/Books/321152-228x228.jpg"
+    },
+    {
+      "name": "Темур қиссаси",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/temur%20qissasisss-228x228.jpg"
+    },
+    {
+      "name": "Тиббий атамалар изоҳлар луғати",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/tibbiy%20sayt-228x228.jpg"
+    },
+    {
+      "name": "Тибет тиббиёти: Кўриш қобилияти: Даосча амалиёт",
+      "image": "http://book.uz/image/cache/catalog/Books/1522-228x228.jpg"
+    },
+    {
+      "name": "Тибет тиббиёти: Нейгун: организмни ёшартириш",
+      "image": "http://book.uz/image/cache/catalog/Books/1521-228x228.jpg"
+    },
+    {
+      "name": "Тибет тиббиёти: Стрессни ҳаёт қувватига айлантириш",
+      "image": "http://book.uz/image/cache/catalog/Books/1520-228x228.jpg"
+    },
+    {
+      "name": "Тибет тиббиёти: Ўз-ўзини Ци массаж",
+      "image": "http://book.uz/image/cache/catalog/Books/1519-228x228.jpg"
+    },
+    {
+      "name": "Тибет тиббиёти: Цигун эликсири ернинг олтин малҳами",
+      "image": "http://book.uz/image/cache/catalog/Books/1518-228x228.jpg"
+    },
+    {
+      "name": "Тизимли бизнес: Раҳбар ва жамоа",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/tizimli%20biznes-228x228.jpg"
+    },
+    {
+      "name": "Туркий халқлар мафкураси",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/turkiy%20xalqlar%20sayt-228x228.jpg"
+    },
+    {
+      "name": "Туркистонда очарчилик, қаҳатчилик, ют",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/turkiston%20sayt-228x228.jpg"
+    },
+    {
+      "name": "Узоқ умр кўриш қоидалари",
+      "image": "http://book.uz/image/cache/catalog/Books/1033-228x228.jpg"
+    },
+    {
+      "name": "Ўйла ва бой бўл. 52 ҳафта учун",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/nx%2052h%20sayt-228x228.jpg"
+    },
+    {
+      "name": "Ўйла ва бой бўл. Омадли 13 қадам",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/nx%2013qadam%20sayt-228x228.jpg"
+    },
+    {
+      "name": "Умуртқа: мўжизани асранг",
+      "image": "http://book.uz/image/cache/catalog/Books/1032-228x228.jpg"
+    },
+    {
+      "name": "Ўсмирлик: ўзгаришлар, муаммолар, ечимлар",
+      "image": "http://book.uz/image/cache/catalog/Books/1629-228x228.jpg"
+    },
+    {
+      "name": "Фарзандингиз буржини биласизми",
+      "image": "http://book.uz/image/cache/catalog/Books/893-228x228.jpg"
+    },
+    {
+      "name": "Фақат ажрама",
+      "image": "http://book.uz/image/cache/catalog/Books/1525-228x228.jpg"
+    },
+    {
+      "name": "Феноменал хотира",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/fenomenal%20sayt-228x228.jpg"
+    },
+    {
+      "name": "Чекишни ташлашнинг энг осон йўли",
+      "image": "http://book.uz/image/cache/catalog/Books/1524-228x228.jpg"
+    },
+    {
+      "name": "Шахс имижи",
+      "image": "http://book.uz/image/cache/catalog/Books/1537-228x228.jpg"
+    },
+    {
+      "name": "Шифо хазинаси. Дарахтлар мўжизаси",
+      "image": "http://book.uz/image/cache/catalog/Books/903-228x228.jpg"
+    },
+    {
+      "name": "Шифо хазинаси: гул ва гиёҳлар саҳовати",
+      "image": "http://book.uz/image/cache/catalog/Books/904-228x228.jpg"
+    },
+    {
+      "name": "Шифо хазинаси: жонзотлар шарофати",
+      "image": "http://book.uz/image/cache/catalog/Books/905-228x228.jpg"
+    },
+    {
+      "name": "Юришдан аввал сузиш",
+      "image": "http://book.uz/image/cache/catalog/Books/1634-228x228.jpg"
+    },
+    {
+      "name": "Қадимги шарқ ҳарбий санъати",
+      "image": "http://book.uz/image/cache/catalog/Books/321107-228x228.jpg"
+    },
+    {
+      "name": "Ҳастимом - Абу Бакр Қаффол Шоший тарихи",
+      "image": "http://book.uz/image/cache/catalog/Books/321117-228x228.jpg"
+    }
+  ],
+  "children": [
+    {
+      "name": "Look and say",
+      "image": "http://book.uz/image/cache/catalog/Books/331195-228x228.jpg"
+    },
+    {
+      "name": "Ole-Luk-Oie",
+      "image": "http://book.uz/image/cache/catalog/Books/1570-228x228.jpg"
+    },
+    {
+      "name": "Адабиёт муаллими",
+      "image": "http://book.uz/image/cache/catalog/Books/1546-228x228.jpg"
+    },
+    {
+      "name": "Алжабрнинг туғилиши",
+      "image": "http://book.uz/image/cache/catalog/Books/1413-228x228.jpg"
+    },
+    {
+      "name": "Алибобо ва қирқ қароқчи",
+      "image": "http://book.uz/image/cache/catalog/Books/1417-228x228.jpg"
+    },
+    {
+      "name": "Алиса мўъжизалар мамлакатида",
+      "image": "http://book.uz/image/cache/catalog/Books/1021-228x228.jpg"
+    },
+    {
+      "name": "Алифбо топишмоқлар мамлакатида",
+      "image": "http://book.uz/image/cache/catalog/Books/331298-228x228.jpg"
+    },
+    {
+      "name": "Аловиддиннинг сеҳрли чироғи",
+      "image": "http://book.uz/image/cache/catalog/Books/1532-228x228.jpg"
+    },
+    {
+      "name": "Балиқчи ва балиқ ҳақида эртак",
+      "image": "http://book.uz/image/cache/catalog/Books/1411-228x228.jpg"
+    },
+    {
+      "name": "Бақирмайдиган оналар",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/baqirmaydigan%20sayt-228x228.jpg"
+    },
+    {
+      "name": "Бақирмайдиган оналар (юмшоқ муқова)",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/baqirmaydigan%20sayt-228x228.jpg"
+    },
+    {
+      "name": "Баҳайбат ва меҳрибон дев (суратли)",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/DEVQOMAT%20(3)-228x228.jpg"
+    },
+    {
+      "name": "Беш болалик йигитча",
+      "image": "http://book.uz/image/cache/catalog/Books/besh_yoshli_bola-650x650-228x228.jpg"
+    },
+    {
+      "name": "Билмасвой ва дўстларининг бошидан кечирганлари (суратли)",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/bilmasvoy%20sayt-228x228.jpg"
+    },
+    {
+      "name": "Биринчи қўнғироқ",
+      "image": "http://book.uz/image/cache/catalog/Books/1559-228x228.jpg"
+    },
+    {
+      "name": "Бирма халқ эртаклари",
+      "image": "http://book.uz/image/cache/catalog/Nazokat/birma-228x228.png"
+    },
+    {
+      "name": "Бўладиган болалар",
+      "image": "http://book.uz/image/cache/catalog/Books/1398-228x228.jpg"
+    },
+    {
+      "name": "Виды глаголов в иллюстрациях",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/vidi%20glagolov-228x228.jpg"
+    },
+    {
+      "name": "Винни Пух ва унинг саргузаштлари",
+      "image": "http://book.uz/image/cache/catalog/Books/1415-228x228.jpg"
+    },
+    {
+      "name": "Винни Пух ва унинг саргузаштлари (суратли, юмшоқ муқова)",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/vinni%20sayt-228x228.jpg"
+    },
+    {
+      "name": "Волшебные сказки",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/vol%20saytga-228x228.jpg"
+    },
+    {
+      "name": "Гулливернинг саёҳатлари",
+      "image": "http://book.uz/image/cache/catalog/Books/306100-228x228.jpg"
+    },
+    {
+      "name": "Дорихонадаги қотиллик (юмшоқ муқова)",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/dorixoan%20(3)-228x228.jpg"
+    },
+    {
+      "name": "Дунёнинг ишлари",
+      "image": "http://book.uz/image/cache/catalog/Books/41-228x228.JPG"
+    },
+    {
+      "name": "Дюймчахон. Сандиқ самолёт. Йўлдош ўртоқ",
+      "image": "http://book.uz/image/cache/catalog/Books/1542-228x228.jpg"
+    },
+    {
+      "name": "Ёввойи оққушлар. Лайлаклар. Кичкина Клаус ва катта клаус",
+      "image": "http://book.uz/image/cache/catalog/Books/1543-228x228.jpg"
+    },
+    {
+      "name": "Жeлсомино ёлғончилар мамлакатида",
+      "image": "http://book.uz/image/cache/catalog/Books/1348-228x228.jpg"
+    },
+    {
+      "name": "Жаннати одамлар (ЯАА)",
+      "image": "http://book.uz/image/cache/catalog/Books/jannti_odamlar-500x750-228x228.jpg"
+    },
+    {
+      "name": "Золушка",
+      "image": "http://book.uz/image/cache/catalog/Books/1560-228x228.jpg"
+    },
+    {
+      "name": "Исломда саломлашиш одоби",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/islomda%20salomlashish%20sayt-228x228.jpg"
+    },
+    {
+      "name": "Ишбилармон кишилар",
+      "image": "http://book.uz/image/cache/catalog/Books/3213988-228x228.jpg"
+    },
+    {
+      "name": "Капитан Врунгелнинг саргузаштлари",
+      "image": "http://book.uz/image/cache/catalog/Books/1370-228x228.jpg"
+    },
+    {
+      "name": "Келтирасиз ҳавасим",
+      "image": "http://book.uz/image/cache/catalog/Books/1357-228x228.jpg"
+    },
+    {
+      "name": "Кичкина шаҳзода",
+      "image": "http://book.uz/image/cache/catalog/Books/Kichkina-228x228.jpg"
+    },
+    {
+      "name": "Математик жумбоқлар",
+      "image": "http://book.uz/image/cache/catalog/Nazokat/photo_2020-05-26_16-09-33-228x228.jpg"
+    },
+    {
+      "name": "Матилда",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/matilda%20sayt-228x228.jpg"
+    },
+    {
+      "name": "Мен англаган ҳаёт",
+      "image": "http://book.uz/image/cache/catalog/Books/1356-228x228.JPG"
+    },
+    {
+      "name": "Менинг ўғригина болам",
+      "image": "http://book.uz/image/cache/catalog/Books/1410-228x228.jpg"
+    },
+    {
+      "name": "Мойдодыр",
+      "image": "http://book.uz/image/cache/catalog/Books/1584-228x228.jpg"
+    },
+    {
+      "name": "Муму",
+      "image": "http://book.uz/image/cache/catalog/Books/331279-228x228.jpg"
+    },
+    {
+      "name": "Муму",
+      "image": "http://book.uz/image/cache/catalog/Books/1548-228x228.jpg"
+    },
+    {
+      "name": "Мунгли кўзлар ",
+      "image": "http://book.uz/image/cache/catalog/Books/Mungli%20kuzlar-228x228.jpg"
+    },
+    {
+      "name": "Овсар Вилсон",
+      "image": "http://book.uz/image/cache/catalog/Books/331224-228x228.jpg"
+    },
+    {
+      "name": "Одоб-ахлоқ китоби",
+      "image": "http://book.uz/image/cache/catalog/Elyora/ODOBAXLOQKITOBI-228x228.jpg"
+    },
+    {
+      "name": "Оле-Лук-Ойе",
+      "image": "http://book.uz/image/cache/catalog/Books/1576-228x228.jpg"
+    },
+    {
+      "name": "Омонбой ва Давронбой",
+      "image": "http://book.uz/image/cache/catalog/Books/331280-228x228.jpg"
+    },
+    {
+      "name": "Она тарбияси",
+      "image": "http://book.uz/image/cache/catalog/Books/1412-228x228.jpg"
+    },
+    {
+      "name": "Осмон қайдан бошланар",
+      "image": "http://book.uz/image/cache/catalog/Books/1547-228x228.jpg"
+    },
+    {
+      "name": "Остин-устин",
+      "image": "http://book.uz/image/cache/catalog/Elyora/OSTIN%20USTIN-228x228.jpg"
+    },
+    {
+      "name": "Очкўз савдогар (тўплам)",
+      "image": "http://book.uz/image/cache/catalog/Books/306102-228x228.jpg"
+    },
+    {
+      "name": "Оқ кема",
+      "image": "http://book.uz/image/cache/catalog/Books/1334-228x228.jpg"
+    },
+    {
+      "name": "Оққуш, Чўртанбалиқ ва Қисқичбақа",
+      "image": "http://book.uz/image/cache/catalog/Books/1355-228x228.JPG"
+    },
+    {
+      "name": "Пешонасига телевизор ёпишган боланинг саргузаштлари",
+      "image": "http://book.uz/image/cache/catalog/Books/322112-228x228.jpg"
+    },
+    {
+      "name": "Пиноккионинг саргузаштлари",
+      "image": "http://book.uz/image/cache/catalog/Books/306103-228x228.jpg"
+    },
+    {
+      "name": "Пушкин эртаклари ",
+      "image": "http://book.uz/image/cache/catalog/Nazokat/PUSHKIN%20ERTAKLARI%20OZBEK-228x228.jpg"
+    },
+    {
+      "name": "Саратон",
+      "image": "http://book.uz/image/cache/catalog/Books/1368-228x228.jpg"
+    },
+    {
+      "name": "Сариқ девни миниб",
+      "image": "http://book.uz/image/cache/catalog/Books/sariqdevniminib-228x228.jpg"
+    },
+    {
+      "name": "Сариқ девни миниб (тўплам)",
+      "image": "http://book.uz/image/cache/catalog/Books/321391-228x228.jpg"
+    },
+    {
+      "name": "Сариқ девнинг ўлими",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/sariq-228x228.jpg"
+    },
+    {
+      "name": "Семиз ва ориқ",
+      "image": "http://book.uz/image/cache/catalog/Elyora/SEMIZ%20VA%20ORIQ-228x228.jpg"
+    },
+    {
+      "name": "Стойкий оловянный солдатик",
+      "image": "http://book.uz/image/cache/catalog/Books/1572-228x228.jpg"
+    },
+    {
+      "name": "Сув остида 80 минг километр",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/suv%20ostida-228x228.jpg"
+    },
+    {
+      "name": "Сув париси. Оле-Лук-Ойе",
+      "image": "http://book.uz/image/cache/catalog/Books/1540-228x228.jpg"
+    },
+    {
+      "name": "Телефон. Краденое солнце",
+      "image": "http://book.uz/image/cache/catalog/Books/1586-228x228.jpg"
+    },
+    {
+      "name": "Телефон. Ўғирланган қуёш",
+      "image": "http://book.uz/image/cache/catalog/Books/1587-228x228.jpg"
+    },
+    {
+      "name": "Тилла узук",
+      "image": "http://book.uz/image/cache/catalog/Elyora/TILLA%20UZUK-228x228.jpg"
+    },
+    {
+      "name": "Тинчликни улуғлаймиз",
+      "image": "http://book.uz/image/cache/catalog/Books/1549-228x228.jpg"
+    },
+    {
+      "name": "Том Сойер ва унинг саргузаштлари (суратли)",
+      "image": "http://book.uz/image/cache/catalog/Nazokat/tom%20soyer-228x228.jpg"
+    },
+    {
+      "name": "Том Сойер ва унинг саргузаштлари (суратли, юмшоқ муқова)",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/tom%20qattiq-228x228.jpg"
+    },
+    {
+      "name": "Том Сойернинг бошидан кечирганлари (ЯАА)",
+      "image": "http://book.uz/image/cache/catalog/Books/331159-228x228.jpg"
+    },
+    {
+      "name": "Ўгай она",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/o'gay%20ona-228x228.jpg"
+    },
+    {
+      "name": "Ўн беш ёшли капитан",
+      "image": "http://book.uz/image/cache/catalog/Books/331160-228x228.jpg"
+    },
+    {
+      "name": "Ўн беш ёшли капитан",
+      "image": "http://book.uz/image/cache/catalog/Books/321102-228x228.jpg"
+    },
+    {
+      "name": "Ўн саккизга кирмаган ким бор",
+      "image": "http://book.uz/image/cache/catalog/Elyora/18ga%20kirmagan-1-228x228.jpg"
+    },
+    {
+      "name": "Ўтар қуш ноласи",
+      "image": "http://book.uz/image/cache/catalog/Books/331174-228x228.jpg"
+    },
+    {
+      "name": "Ўтар қуш ноласи",
+      "image": "http://book.uz/image/cache/catalog/Books/331281-228x228.jpg"
+    },
+    {
+      "name": "Худойберди Тўхтабоев. ТЎПЛАМ",
+      "image": "http://book.uz/image/cache/catalog/Books/To'xtaboyev-toplam-228x228.png"
+    },
+    {
+      "name": "Шайтонни тутган Шертой",
+      "image": "http://book.uz/image/cache/catalog/Books/321142-228x228.jpg"
+    },
+    {
+      "name": "Ширин қовунлар мамлакати ёки сеҳргарлар жанги",
+      "image": "http://book.uz/image/cache/catalog/Books/1516-228x228.jpg"
+    },
+    {
+      "name": "Шум бола",
+      "image": "http://book.uz/image/cache/catalog/Books/1561-228x228.jpg"
+    },
+    {
+      "name": "Эски мактаб",
+      "image": "http://book.uz/image/cache/catalog/Elyora/ESKI%20MAKTABIBOSMAGA%20MTU-228x228.jpg"
+    },
+    {
+      "name": "Эъробли араб алифбоси",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/e'robli%20arab-228x228.jpg"
+    },
+    {
+      "name": "Ювин, дўмбоғим",
+      "image": "http://book.uz/image/cache/catalog/Books/1588-228x228.jpg"
+    },
+    {
+      "name": "Япон халқ эртаклари",
+      "image": "http://book.uz/image/cache/catalog/Nazokat/yapon-228x228.png"
+    },
+    {
+      "name": "Ғазаллар",
+      "image": "http://book.uz/image/cache/catalog/Books/331278-228x228.jpg"
+    },
+    {
+      "name": "Ғалати мактублар",
+      "image": "http://book.uz/image/cache/catalog/Books/1557-228x228.jpg"
+    },
+    {
+      "name": "Ғаройиб болалар",
+      "image": "http://book.uz/image/cache/catalog/Elyora/AZIZ%20NESIN-228x228.jpg"
+    },
+    {
+      "name": "Қайлардасан болалигим",
+      "image": "http://book.uz/image/cache/catalog/Books/Bolaligim-228x228.jpg"
+    },
+    {
+      "name": "Қасоскорниинг олтин боши",
+      "image": "http://book.uz/image/cache/catalog/Books/322102-228x228.jpg"
+    },
+    {
+      "name": "Қизиқувчан Матмуса",
+      "image": "http://book.uz/image/cache/catalog/Books/1354-228x228.JPG"
+    },
+    {
+      "name": "Қирқ болага қирқ савол",
+      "image": "http://book.uz/image/cache/catalog/Books/1545-228x228.jpg"
+    },
+    {
+      "name": "Қор маликаси (тўплам)",
+      "image": "http://book.uz/image/cache/catalog/Nazokat/qor%20malikasi%20t-228x228.jpg"
+    },
+    {
+      "name": "Қор маликаси. Собит қалайи аскарча",
+      "image": "http://book.uz/image/cache/catalog/Books/1541-228x228.jpg"
+    },
+    {
+      "name": "Қуёнлар салтанати",
+      "image": "http://book.uz/image/cache/catalog/Books/1527-228x228.jpg"
+    }
+  ],
+  "educational": [
+    {
+      "name": "Look and say",
+      "image": "http://book.uz/image/cache/catalog/Books/331195-228x228.jpg"
+    },
+    {
+      "name": "Биология дарсларида ахборот ва инновацион технологиялардан фойдаланиш",
+      "image": "http://book.uz/image/cache/catalog/Books/321155-228x228.jpg"
+    },
+    {
+      "name": "Виды глаголов в иллюстрациях",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/vidi%20glagolov-228x228.jpg"
+    },
+    {
+      "name": "Зукко алифбо",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/d1-228x228.jpg"
+    },
+    {
+      "name": "Инглиз тилининг олтин қоидалари",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/ing%20sayt%20tekkis%20(2)-228x228.jpg"
+    },
+    {
+      "name": "Кимё (умумий, анорганик, органик + Видеодарслик)",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/kimyo%20sayt12%20(2)-228x228.jpg"
+    },
+    {
+      "name": "Математиканинг олтин китоби",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/matematikaning%20oltin%20kitobi-228x228.jpg"
+    },
+    {
+      "name": "Медитация дарслари",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/meditatsiya%20sayt-228x228.jpg"
+    },
+    {
+      "name": "Международное право прав человека и международное гуманитарное право",
+      "image": "http://book.uz/image/cache/catalog/Books/321078-228x228.jpg"
+    },
+    {
+      "name": "Микробиология, вирусология, Иммунология",
+      "image": "http://book.uz/image/cache/catalog/Books/331265-228x228.jpg"
+    },
+    {
+      "name": "Она тили (ЯАА)",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/ona%20tili%20sayt-228x228.jpg"
+    },
+    {
+      "name": "Рус тилида гапиришни ўрганамиз",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/rus%20tili-228x228.jpg"
+    },
+    {
+      "name": "Рус тилини ўрганишнинг энг самарали усуллари",
+      "image": "http://book.uz/image/cache/catalog/Books/1636-228x228.jpg"
+    },
+    {
+      "name": "Ўзбекистонда ўсадиган шифобахш ўсимликларнинг этимологик замонавий энциклопедияси",
+      "image": "http://book.uz/image/cache/catalog/Books/203108-228x228.jpg"
+    },
+    {
+      "name": "Эпизоотолтгия ва микробиология",
+      "image": "http://book.uz/image/cache/catalog/Books/321154-228x228.jpg"
+    },
+    {
+      "name": "Эъробли араб алифбоси",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/e'robli%20arab-228x228.jpg"
+    },
+    {
+      "name": "Ҳуқуқшунослик",
+      "image": "http://book.uz/image/cache/catalog/Books/321048-228x228.jpg"
+    }
+  ],
+  "business": [
+    {
+      "name": "Камбағалликни тарк этишни истайсизми?",
+      "image": "http://book.uz/image/cache/catalog/Books/3031103-228x228.jpg"
+    },
+    {
+      "name": "Корхона қурамиз",
+      "image": "http://book.uz/image/cache/catalog/Books/1507-228x228.jpg"
+    },
+    {
+      "name": "Савдо санъати",
+      "image": "http://book.uz/image/cache/catalog/Books/321136-228x228.jpg"
+    },
+    {
+      "name": "Савдодаги савдолар",
+      "image": "http://book.uz/image/cache/catalog/Books/1534-228x228.jpg"
+    },
+    {
+      "name": "Тизимли бизнес: Раҳбар ва жамоа",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/tizimli%20biznes-228x228.jpg"
+    },
+    {
+      "name": "Топ сотув секретлари",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/top%20sayrrrrrrrrrrrrrrr-228x228.jpg"
+    },
+    {
+      "name": "Ўз-ўзига ишонч ҳосил қилиш ва омма олдида сўзлаш",
+      "image": "http://book.uz/image/cache/catalog/Books/1353-228x228.jpg"
+    },
+    {
+      "name": "Ўйла ва бой бўл",
+      "image": "http://book.uz/image/cache/catalog/Nazokat/o'yla-228x228.jpg"
+    },
+    {
+      "name": "Ўйла ва бой бўл. 52 ҳафта учун",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/nx%2052h%20sayt-228x228.jpg"
+    },
+    {
+      "name": "Ўйла ва бой бўл. Бойликнинг қўрғони сари сизнинг калитингиз",
+      "image": "http://book.uz/image/cache/catalog/Books/321307-228x228.jpg"
+    },
+    {
+      "name": "Ўйла ва бой бўл. Муваффақият сари йўл нимадан бошланади",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/nx%20muvaffa-228x228.jpg"
+    },
+    {
+      "name": "Ўйла ва бой бўл. Омадли 13 қадам",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/nx%2013qadam%20sayt-228x228.jpg"
+    },
+    {
+      "name": "Шахс имижи",
+      "image": "http://book.uz/image/cache/catalog/Books/1537-228x228.jpg"
+    }
+  ],
+  "religious": [
+    {
+      "name": "Алфидо",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/alfido%20sayt-228x228.jpg"
+    },
+    {
+      "name": "Бараканинг сирлари",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/barakaning%20sirlari-228x228.jpg"
+    },
+    {
+      "name": "Бақирмайдиган оналар",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/baqirmaydigan%20sayt-228x228.jpg"
+    },
+    {
+      "name": "Виждон уйғонур",
+      "image": "http://book.uz/image/cache/catalog/Books/VIJDON-UYGONUR-228x228.JPG"
+    },
+    {
+      "name": "Гўдакликдан йигитликка қадар",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/go'daklikdan%20sayt-228x228.jpg"
+    },
+    {
+      "name": "Жаноза масалалари",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/janoza%20sayt-228x228.jpg"
+    },
+    {
+      "name": "Ибодати исломия",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/ibodati%20isl%20sayt-228x228.jpg"
+    },
+    {
+      "name": "Исломда ота-она ва фарзанд ҳақлари",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/islomda%20ota-ona-228x228.jpg"
+    },
+    {
+      "name": "Исломда саломлашиш одоби",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/islomda%20salomlashish%20sayt-228x228.jpg"
+    },
+    {
+      "name": "Ичиндаги ичиндадур",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/ichindagi%20saytga-228x228.jpg"
+    },
+    {
+      "name": "Кўнгил нимадан қораяди",
+      "image": "http://book.uz/image/cache/catalog/Books/203110-228x228.jpg"
+    },
+    {
+      "name": "Лўли",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/lo'li%20sayt-228x228.jpg"
+    },
+    {
+      "name": "Маҳрам жавоблар",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/mahram%20j-228x228.jpg"
+    },
+    {
+      "name": "Маҳрам жавоблар (юмшоқ муқова)",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/mahram%20j-228x228.jpg"
+    },
+    {
+      "name": "Оилада севги суҳбатлари",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/oilada%20sevg-228x228.jpg"
+    },
+    {
+      "name": "Сўнгги тўфон (қаттиқ муқова)",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/so'nggi%20t-228x228.jpg"
+    },
+    {
+      "name": "Тасаввуф: Қаранийдан Рушдийгача",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/tasavvuf-228x228.jpg"
+    },
+    {
+      "name": "Термизий алломалардан олтин ўгитлар",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/termiziy-228x228.jpg"
+    },
+    {
+      "name": "Умидимиз юлдузларига",
+      "image": "http://book.uz/image/cache/catalog/Books/1514-228x228.jpg"
+    },
+    {
+      "name": "Шайтанатнинг жин кўчалари",
+      "image": "http://book.uz/image/cache/catalog/Books/1511-228x228.jpg"
+    },
+    {
+      "name": "Эъробли араб алифбоси",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/e'robli%20arab-228x228.jpg"
+    },
+    {
+      "name": "Қизлар дафтарига М.З",
+      "image": "http://book.uz/image/cache/catalog/Elyora/QIZLAR%20DAFTARIGA-228x228.jpg"
+    },
+    {
+      "name": "Ҳаловат",
+      "image": "http://book.uz/image/cache/catalog/Books/1515-228x228.JPG"
+    },
+    {
+      "name": "Ҳалол нимаю ҳаром нима",
+      "image": "http://book.uz/image/cache/catalog/Books/1403-228x228.jpg"
+    },
+    {
+      "name": "Ҳикматлар (2021)",
+      "image": "http://book.uz/image/cache/catalog/Ulugbek/hikmatlar%20sayt-228x228.jpg"
+    }
+  ]
+}

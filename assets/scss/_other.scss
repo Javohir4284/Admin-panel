@@ -1,0 +1,26 @@
+$primaryColor: #00b2f5;
+$secondryColor: #66d1f9;
+$btnPrimary: linear-gradient(90deg, #00b2f5 0%, #5fcef8 100%);
+$footerColor: #D7752C;
+$mainBackground:#faf8f5;
+
+@font-face {
+  font-family: "GoshaBold";
+  src: url(/assets/fonts/GoshaSans-Bold.otf);
+}
+
+@font-face {
+  font-family: "GoshaRegular";
+  src: url(/assets/fonts/GoshaSans-Bold.otf);
+}
+
+@mixin btnPrimary {
+  background: $btnPrimary;
+  border-radius: 20px;
+  border: none;
+  font-family: "GoshaRegular";
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 20px;
+  width: 90px;
+}
